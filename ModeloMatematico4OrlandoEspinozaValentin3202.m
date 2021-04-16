@@ -29,4 +29,4 @@
 	xlabel ("x");
 
 % Etiqueta para y
-	ylabel ("f(x)");
+	ylabel ("y");
