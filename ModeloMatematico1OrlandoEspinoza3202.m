@@ -1,10 +1,10 @@
 % Octave Script
-% Title			:ModeloMatematico(1)
-% Description		:Script para graficar una funcion del cambio de temperatura en grados °F y °C de la forma f(x)=ax+b   
+% Title			:ModeloMatematico1
+% Description		:Scrip para graficar f(x) = -x^2+3
 % Author		:Orlando Espinoza Valentin (Orlando-Esp) espinozaorlando978@gmail.com
 % Date			:20210415
 % sion		  :1
-% Usage			:octave> /path/ModeloMatematicoDeTemperaturaOrlandoEspinoza3202.m
+% Usage			:octave> /ModeloMatematico1OrlandoEspinoza3202.m
 % Notes			:Requiere aplicacion octave usar en consola preferentemente
 
 %Limpiar variables.
