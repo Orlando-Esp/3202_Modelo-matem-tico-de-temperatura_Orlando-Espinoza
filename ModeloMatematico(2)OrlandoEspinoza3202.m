@@ -1,5 +1,5 @@
 % Octave Script
-% Title			:ModeloMatematicodeTemperatura
+% Title			:ModeloMatematicoTemperatura
 % Description		:Script para graficar una funcion del cambio de temperatura en grados °F y °C de la forma f(x)=ax+b   
 % Author		:Orlando Espinoza Valentin (Orlando-Esp) espinozaorlando978@gmail.com
 % Date			:20210415
